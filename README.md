@@ -3,5 +3,5 @@
 
 ## 第一周：go基础（略）
 ## 第二周：go进阶（略）
-  作业：
+  作业：https://github.com/ProsperousLi/jike-k8s/tree/main/week2
 ## 第三周：
