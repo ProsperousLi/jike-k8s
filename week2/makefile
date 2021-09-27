@@ -1,4 +1,4 @@
 test: 
 	echo "hello"
 build:
-	echo "build"
+	go build
