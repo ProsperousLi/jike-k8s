@@ -10,20 +10,4 @@
 
 解答：  
     
-1. dockerhub 拉取linux小镜像，alpine  
-
-   ​	`docker pull alpine:latest`
-
-2. dockerhub 拉取 golang编译容器golang:alpine
-
-   ​	`docker pull`
-
-3. 进入容器，拉取代码编译
-
-   
-
-4. 使用Dockerfile将程序和环境打入alpine
-
-5. 运行Dokerfile
-
-6. 将镜像推送到dockerhub
+详情见Dokerfile
