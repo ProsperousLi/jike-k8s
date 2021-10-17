@@ -46,3 +46,6 @@
     docker push
     
     镜像地址 ： https://registry.hub.docker.com/repository/docker/prosperousli/httpserver  
+## 本地启动 httpserver
+    docker run -dit -p8080:8080 --name httpserver prosperousli/httpserver:1.0
+    使用 curl 127.0.0.1:8080 即可访问成功
